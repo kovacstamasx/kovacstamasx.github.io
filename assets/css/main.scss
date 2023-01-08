@@ -1,0 +1,18 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+$the-orange: #d67539;
+
+$primary-color: $the-orange;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.page__footer footer {
+  margin-top: 1em;
+  padding-bottom: 1em;
+}
