@@ -18,7 +18,7 @@ twitter_username:
 github_username: kovacstamasx
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "air"
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
