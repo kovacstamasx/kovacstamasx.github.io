@@ -1,5 +1,6 @@
 author:
   name: "Tamas Kovacs"
+  email: kovacstamasx@gmail.com
   avatar: "/assets/images/photo.jpg"
   bio: "Software engineer"
   location: "Erd, Hungary"
@@ -9,12 +10,10 @@ author:
       url: "https://github.com/kovacstamasx"
 
 title: Coding stuff explained
-email: kovacstamasx@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Software engineering practices, patterns explained.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://kovacstamasx.github.io # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:
 github_username: kovacstamasx
 
 # Build settings
